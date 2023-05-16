@@ -3,7 +3,10 @@ A codebase for analyzing Overwatch
 
 ## Top 500 analyzer
 
-The complete code for this is in `top_500_analyzer.py`, it currently only supports DPS character detection.  I added the mp4 from the NA ladder.  The EU/Asia ones were Tanks/supports coming soon!
+The complete code for this is in `top_500_analyzer.py`, it currently only supports DPS character detection.  I added the mp4 from the NA ladder.  The EU/Asia ones were too large to put on GitHub but conceptually they are identical.  
+
+## Coming soon!
+Tanks/supports stats are coming soon!
 
 ## Hero pool maker
 
