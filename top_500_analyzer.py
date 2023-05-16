@@ -19,7 +19,7 @@ from visualizer import plot_hero_counts
 print("Filtering frames...")
 print("Should expect ~50 keyframes to be selected")
 
-video_path = 'overwatch-top-500-05-2023-asia.mp4'
+video_path = 'overwatch-top-500-05-2023-na.mp4'
 output_file = "stats/" + video_path.replace(".mp4", ".csv")
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
